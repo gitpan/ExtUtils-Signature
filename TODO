@@ -1,0 +1,6 @@
+# $File: //member/autrijus/ExtUtils-AutoInstall/TODO $ $Author: autrijus $
+# $Revision: #1 $ $Change: 1 $ $DateTime: 2002/06/11 08:35:12 $
+
+- Make SHA1 pluggable.
+- PKI.
+
